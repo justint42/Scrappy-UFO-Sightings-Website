@@ -29,4 +29,4 @@ One drawback of this page is the lack of account for different formatting of inp
 <img width="1254" alt="Screen Shot 2022-08-25 at 9 10 11 PM" src="https://user-images.githubusercontent.com/106895220/186801524-03545f7f-c2bc-4a2b-893c-72da5db495ae.png">
 
 
-We recommend modifications that can take in any type of (correct) spelling for inputs. We also recommend improving the formatting of the introductory text "Are we alone in the universe..." with the secondary heading "UFO Sightings: Fact or Fancy? Ufologists Weigh In." There is uneeded white space on the side. 
+We recommend modifications that can take in any type of (correct) spelling for inputs. We also recommend improving the formatting of the introductory text "Are we alone in the universe..." with the secondary heading "UFO Sightings: Fact or Fancy? Ufologists Weigh In." There is unneeded white space on the side. 
