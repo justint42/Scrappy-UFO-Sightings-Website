@@ -4,7 +4,7 @@
 
 ### Purpose 
 
-The purpose of this analysis is to improve a webpage displaying numerous UFO sightings over the years. This improvement would provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria (city, state, country, and UFO shape) at the same time. More specifically, the purpose to practice HTML, CSS, and Javascript.
+The purpose of this analysis is to improve a webpage displaying numerous UFO sightings over the years. This improvement would provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria (city, state, country, and UFO shape) at the same time. Ultimately, the purpose of this is to practice joining HTML, CSS, and Javascript.
 
 ### Results
 
